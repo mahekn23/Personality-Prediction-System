@@ -14,7 +14,7 @@ Agreeableness: It is a quality that analyses the individual behavior based on th
 Neuroticism: This trait usually describes a person to have mood swings and has extreme expressive power.
  
  
-DATSSET DESCRIPTION: 
+DATASET DESCRIPTION: 
  
 The dataset used has 8 columns as shown in the figure below. Out of these columns, the features of our model include "openness", "neuroticism", "conscientiousness", "agreeableness", "extraversion" and the target is “Personality”. Our dataset has 315 records out of which 70% data is used for training the model and 30% is used for testing the model.
 
