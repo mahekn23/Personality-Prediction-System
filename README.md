@@ -22,8 +22,7 @@ Random Forest Classifier is chosen as it has a higher accuracy compared to other
 
 Our System:
  
-Web application link: 
-Code Base link: 
+Web application link: http://mlflaskcodedeveloper.pythonanywhere.com/
  
 Conclusion:
  
