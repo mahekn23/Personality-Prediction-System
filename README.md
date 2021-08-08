@@ -1,4 +1,4 @@
-# PersonalityPredictionSystem
+# Personality Prediction System
 A ML based Personality Prediction System.
 
 Problem statement: 
